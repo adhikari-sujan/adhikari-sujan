@@ -1,16 +1,46 @@
-## Hi there 👋
+# ⚡ Sujan Adhikari
 
-<!--
-**adhikari-sujan/adhikari-sujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Student • Hustler • Learning Everyday
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 BCA Student  
+- 🎨 Graphics Designing  
+- 💻 Learning Web Development  
+- 🚀 Hustle mindset (improving daily)
+
+---
+
+## ⚙️ Skills
+- HTML  
+- CSS  
+- JavaScript  
+- C  
+- Git  
+- Photoshop  
+
+---
+
+## 🎯 Current Focus
+- Learning C Programming  
+- Improving frontend skills  
+- Becoming better than yesterday  
+
+---
+
+## 🌍 Connect With Me
+- GitHub: https://github.com/adhikari-sujan  
+- Instagram: https://www.instagram.com/sujanadhikari0/  
+- Website: https://adhikari-sujan.com.np/  
+
+---
+
+## 💭 Quote
+“Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.”  
+— Albert Einstein
+
+---
+
+## ⚡ Mindset
+Stay consistent. Stay dangerous.
