@@ -7,14 +7,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I'm a **BCA Student** by day and a **Creative Explorer** by night. I sit at the intersection of **Design** and **Code**, constantly pushing to turn "knowledge" into "execution." 
 > > > I have something people call Curiosity. 
 
-- 🎓 **Currently:** Navigating the world of Computer Applications.
+- 🎓 **Currently:** BCA Student at Butwal Kalika Campus.
 - 🎨 **Creative Side:** Graphic design & UI enthusiast.
 - 💻 **Technical Side:** Building the foundations of the web.
-- 🛠️ **Current Mission:** Leveling up my JavaScript and C logic.
+- 🛠️ **Current Mission:** Leveling up my Learning.
 
 ---
 
@@ -30,7 +30,7 @@ I'm a **BCA Student** by day and a **Creative Explorer** by night. I sit at the 
 ---
 
 ### 📜 Philosophy
-> "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."  
+> "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world."  
 > — *Albert Einstein*
 
 ---
@@ -48,6 +48,14 @@ I'm a **BCA Student** by day and a **Creative Explorer** by night. I sit at the 
 <img src="https://github-readme-stats.vercel.app/api?username=adhikari-sujan&show_icons=true&theme=tokyonight&font_color=ffff00&bg_color=000000&hide_border=true" alt="Sujan's GitHub Stats" />
 </p>
 
+
+---
+
 <p align="center">
-  <i>"Success isn't owned, it's leased. And rent is due every day."</i>
+  <i>"Imperfection is Perfection; that’s what makes us different."</i> ~ Sujan Adhikari <br> 
+  <b>Stay Improving. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=60&section=footer" />
 </p>
