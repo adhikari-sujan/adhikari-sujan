@@ -1,4 +1,4 @@
-# <p align="center">⚡ SUJAN ADHIKARI ⚡</p>
+# <p align="center">• SUJAN ADHIKARI •</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Hustle%20%26%20Grind-yellow?style=for-the-badge&logo=rocket" />
