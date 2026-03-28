@@ -44,9 +44,9 @@ I'm a **BCA Student** by day and a **Creative Explorer** by night. I sit at the 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adhikari-sujan&show_icons=true&theme=tokyonight&font_color=ffff00&bg_color=000000&hide_border=true" alt="Sujan's GitHub Stats" />
-</p>
+</p> -->
 
 
 ---
